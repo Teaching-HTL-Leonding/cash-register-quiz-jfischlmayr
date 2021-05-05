@@ -1,5 +1,4 @@
 ﻿using CashRegister.Shared;
-using Microsoft.TeamFoundation.Server;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
